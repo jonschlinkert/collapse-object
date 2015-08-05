@@ -1,6 +1,6 @@
 # collapse-object [![NPM version](https://badge.fury.io/js/collapse-object.svg)](http://badge.fury.io/js/collapse-object)
 
-> Collapse an object into a string using the sytax from expand-object.
+> Collapse an object into a string using the syntax from expand-object.
 
 ## Install
 
