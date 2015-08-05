@@ -1,0 +1,48 @@
+{
+  "name": "collapse-object",
+  "description": "Collapse an object into a string using the sytax from expand-object.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/collapse-object",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/collapse-object",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/collapse-object/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "expand-object": "^0.3.6",
+    "kind-of": "^2.0.0",
+    "regex-flags": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "get",
+    "has",
+    "hasown",
+    "key",
+    "keys",
+    "nested",
+    "notation",
+    "object",
+    "prop",
+    "properties",
+    "property",
+    "props",
+    "set",
+    "value",
+    "values"
+  ]
+}
