@@ -2,6 +2,8 @@
 
 > Collapse an object into a string using the syntax from expand-object. This syntax is pretty handy for setting command line arguments, for expanding/collapsing test fixtures, etc.
 
+Also see [expand-object](https://github.com/jonschlinkert/expand-object), for doing the reverse of this library.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/)
