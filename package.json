@@ -1,6 +1,6 @@
 {
   "name": "collapse-object",
-  "description": "Collapse an object into a string using the syntax from expand-object.",
+  "description": "Collapse an object into a string using the syntax from expand-object. This syntax is pretty handy for setting command line arguments, for expanding/collapsing test fixtures, etc.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/collapse-object",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
@@ -29,6 +29,8 @@
     "should": "*"
   },
   "keywords": [
+    "data",
+    "fixtures",
     "get",
     "has",
     "hasown",

@@ -1,6 +1,6 @@
 # collapse-object [![NPM version](https://badge.fury.io/js/collapse-object.svg)](http://badge.fury.io/js/collapse-object)
 
-> Collapse an object into a string using the syntax from expand-object.
+> Collapse an object into a string using the syntax from expand-object. This syntax is pretty handy for setting command line arguments, for expanding/collapsing test fixtures, etc.
 
 ## Install
 
@@ -102,7 +102,7 @@ expand('a.b:true,false|a.c.d:e')
 //=> {a: {b: [true, false], c: {d: 'e'}}}
 ```
 
-### collapse nested objects
+### collapse complex objects
 
 ```js
 collapse({a: {b: 'c', d: 'e'}, f: 'g'})
